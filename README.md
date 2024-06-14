@@ -1,5 +1,5 @@
 # eventstudyr
-Estimation (Estimate) and Visualization (visualize) in the Linear Panel Event Study Design models Use eventstudyr With (In) Software
+Estimation (Estimate) and Visualization (visualize) in the Linear Panel Event Study Design models Use eventstudyr With (In) R Software
 
 Olah Data Semarang
 
