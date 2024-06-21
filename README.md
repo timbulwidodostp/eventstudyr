@@ -1,6 +1,8 @@
 # eventstudyr
 Estimation (Estimate) and Visualization (visualize) in the Linear Panel Event Study Design models Use eventstudyr With (In) R Software
 
+https://www.youtube.com/watch?v=cP31aZdbdow
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
